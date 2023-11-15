@@ -34,6 +34,7 @@ const App = () => {
 
     
     <div>
+        WELCOME
       <button style={buttonStyle} onClick={generatePDF}>Generate PDF</button>
     </div>
   );
