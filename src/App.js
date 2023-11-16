@@ -33,7 +33,7 @@ const App = () => {
   return (
 
     
-    <div>
+    <div align='center'>
         WELCOME
       <button style={buttonStyle} onClick={generatePDF}>Generate PDF</button>
     </div>
